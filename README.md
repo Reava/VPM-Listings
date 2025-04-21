@@ -11,7 +11,7 @@ Check updates before reporting issues.
 - **[Unity](https://docs.vrchat.com/docs/current-unity-version)** (Tested: v2022.3.22f1)
 - **[VRChat Worlds SDK3](https://vrchat.com/home/download)** (Tested: v3.8.0)
 - **Text Mesh Pro** is used in most of my world prefabs, import it !
-- 
+
 ## **Links**
 Get support & support me here:
 - https://discord.gg/TxYwUFKbUS
