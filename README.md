@@ -1,8 +1,4 @@
 
-<div align=left>
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/reava/VPM-Listings/release.yml?style=for-the-badge">
-</div>
-
 ## **💜 Hope you enjoy my prefabs!**
 
 **Here's the current listed ones:**
