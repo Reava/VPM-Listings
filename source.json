@@ -1,7 +1,7 @@
 {
     "name":"Reava's listings",
     "id":"chirp.reava.listings",
-    "url":"https://reava.github.io/test/index.json",
+    "url":"https://reava.github.io/VPM-Listings/index.json",
     "author":{
         "email":"reava.vr@gmail.com",
         "name":"Reava_",
@@ -9,7 +9,7 @@
     },
     "description":"Collective listing of Reava's VRChat packages",
     "infoLink":{
-        "url":"https://github.com/Reava/test",
+        "url":"https://github.com/Reava/VPM-Listings",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
