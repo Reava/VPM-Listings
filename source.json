@@ -17,6 +17,7 @@
         "reava/UwUtils",
         "reava/U-Key",
         "reava/PortableWorldMenu",
-        "reava/Bakery-Mass-Editor"
+        "reava/Bakery-Mass-Editor",
+        "reava/Unity-Rich-Presence"
     ]
 }
