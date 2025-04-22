@@ -1,3 +1,8 @@
+
+<div align=left>
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/reava/VPM-Listings/release.yml?style=for-the-badge">
+</div>
+
 ## **💜 Hope you enjoy my prefabs!**
 
 **Here's the current listed ones:**
@@ -7,14 +12,14 @@
 - **[Bakery Mass Editor](https://github.com/Reava/Bakery-Mass-Editor)**: A simple editor tool to change values on multiple bakery light sources at once
 - **[Unity Rich Presence](https://github.com/Reava/Unity-Rich-Presence)**: A package for automatically displaying a discord rich presence for your unity project. 
 
-## **Requirements**
+## ⚠️ **Requirements**
 Check updates before reporting issues.
 
 - **[Unity](https://docs.vrchat.com/docs/current-unity-version)** (Tested: v2022.3.22f1)
 - **[VRChat Worlds SDK3](https://vrchat.com/home/download)** (Tested: v3.8.0)
 - **Text Mesh Pro** is used in most of my world prefabs, import it !
 
-## **Links**
+## 🔗 **Links**
 Get support & support me here:
 - https://discord.gg/TxYwUFKbUS
 - https://patreon.com/Reava
