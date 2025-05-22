@@ -5,7 +5,7 @@
 - **[UwUtils](https://github.com/Reava/UwUtils)**: A collection of -almost- niche UdonSharp scripts as an (almost) all in one Toolkit for world creators
 - **[U#Keypad](https://github.com/Reava/U-Key)**: A drag-and-drop Keypad/Passcode Prefab for VRChat using UdonSharp with modular features 
 - **[Portable World Menu](https://github.com/Reava/PortableWorldMenu)**: A portable menu for VRChat worlds that can be summoned anywhere by users to control various settings
-- **[Bakery Mass Editor](https://github.com/Reava/Bakery-Mass-Editor)**: A simple editor tool to change values on multiple bakery light sources at once
+- **[Reava's Editor Toolbox](https://github.com/Reava/VRC-Editor-Toolbox)**: A collection of Simple Editor Tools I made to speed up niche processes I encountered making VRChat worlds. 
 - **[Unity Rich Presence](https://github.com/Reava/Unity-Rich-Presence)**: A package for automatically displaying a discord rich presence for your unity project. 
 
 ## ⚠️ **Requirements**
